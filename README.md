@@ -2,7 +2,7 @@
 
 - ❤️ 2011-11-07 ~
 - 🔭 Student
-- 🌱 Kyung Hee University - Computer Science and Engineering / Geography
+- 🌱 Kyung Hee University - Computer Science and Engineering
 - 👯 T.G.WinG, ESPers
 - 🤔 Not gosu
 - 🔌 Hobby: 🚴‍ 🎵 🎮
