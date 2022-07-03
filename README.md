@@ -1,6 +1,5 @@
-## It's Me Mukho 👋
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FMukholisk&count_bg=%23CEE5D5&title_bg=%23D0B060&icon=&icon_color=%23E7E7E7&title=hi&edge_flat=true)](https://hits.seeyoufarm.com)
-
+## It's Me Mukho 👋
 - ❤️ 2011-11-07 ~
 - 🔭 Student
 - 🌱 Kyung Hee University - Computer Science and Engineering
@@ -22,6 +21,7 @@
 <img src="https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=Qt&logoColor=white"> <img src="https://img.shields.io/badge/express.js-000000?style=for-the-badge&logo=express&logoColor=%2361DAFB"> <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white"> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"> <img src="https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white"> <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=%2361DAFB">
 #### 🖱️ etc
 <img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white"> <img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=Microsoft%20Excel&logoColor=white"> <img src="https://img.shields.io/badge/Microsoft%20Access-A4373A?style=for-the-badge&logo=Microsoft%20Access&logoColor=white"> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
-
+<br>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mukholisk&show_icons=true&theme=radical)<br>
-![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=komogoon) ![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=lunalin)<br>
+![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=komogoon)
+![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=lunalin)<br>
