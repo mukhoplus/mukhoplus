@@ -1,4 +1,4 @@
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FMukholisk&count_bg=%23CEE5D5&title_bg=%23D0B060&icon=&icon_color=%23E7E7E7&title=hi&edge_flat=true)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmukhoplus&count_bg=%23CEE5D5&title_bg=%23D0B060&icon=&icon_color=%23E7E7E7&title=hi&edge_flat=true)](https://hits.seeyoufarm.com)
 ## It's Me Mukho 👋
 - ❤️ 2011-11-07 ~
 - 🔭 Student
@@ -23,5 +23,5 @@
 <img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white"> <img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=Microsoft%20Excel&logoColor=white"> <img src="https://img.shields.io/badge/Microsoft%20Access-A4373A?style=for-the-badge&logo=Microsoft%20Access&logoColor=white"> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
 
 <br><br>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mukholisk&show_icons=true&theme=radical)<br>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mukhoplus&show_icons=true&theme=radical)<br>
 ![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=komogoon)
