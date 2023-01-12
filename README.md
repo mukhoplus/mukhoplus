@@ -9,6 +9,7 @@
 - 👯 T.G.WinG(2016~), ESPers(2017~)
 - 🤔 Not gosu
 - 🔌 Hobby: 🚴‍ 🎵 🎮
+- ~~구글, 네이버, 삼성, 묵호 렛츠고~~
 
 <br><br>
 ![Mukho's GitHub stats](https://github-readme-stats.vercel.app/api?username=mukhoplus&show_icons=true&theme=radical)<br>
