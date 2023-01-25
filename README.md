@@ -5,7 +5,7 @@
 - 🌱 Kyung Hee University - Computer Science and Engineering(2016~2023)
   - 제19회 KHU 봄 프로그래밍 경시대회 장려상(2022.05)
   - 네이버 커넥트재단 부스트캠프 웹・모바일 7기 챌린지 수료(2022.08)
-  - 삼성SDS 2023년 상반기 알고리즘 특강(2023)
+  - 삼성SDS 2023년 상반기 알고리즘 특강 수료(2023)
 - 👯 T.G.WinG(2016~), ESPers(2017~)
 - 🤔 Not gosu
 - 🔌 Hobby: 🚴‍ 🎵 🎮
