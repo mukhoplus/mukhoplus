@@ -11,6 +11,8 @@
 - 🤔 Not gosu
 - 🔌 Hobby: 🚴‍ 🎵 🎮
 - ⚽ Goals: Develop user-friendly and bug-free services
+  - 📞 Reservation Date Calculator(2020)
+  - 🏭 ESPers Starcraft Ranking System(2022)
 - 📈 ~~구글, 네이버, 삼성, 묵호 렛츠고~~
 
 <br><br>
