@@ -2,17 +2,21 @@
 
 ## It's Me Mukho 👋
 
-![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=komogoon)<br>
+![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=komogoon)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=lunalin)<br>
 
 - ❤️ 2011-11-07 ~
 - 🔭 Student -> Made by Mukho
-- 🌱 Kyung Hee University - Computer Science and Engineering(2016~2023)
+- 🌱 Kyung Hee University - Computer Science and Engineering(2016 ~ 2023)
 - 👯 T.G.WinG(2016~), ESPers(2017~)
-- 🤔 Not gosu
-- 🔌 Hobby: 🚴‍ 🎵 🎮
-- ⚽ Goals: Develop user-friendly and bug-free services
-  - 📞 Reservation Date Calculator(2020)
-  - 🏭 ESPers Starcraft Ranking System(2022)
+- 🤔 Not gosu..?
+- 🔌 Hobby: 🚴‍ 🎵 🎮 💻
+- ⚽ Goals
+  - Back-End Developer
+  - Develop "user-friendly" and "bug-free" services
+- ☁️ Primary Project
+  - 📞 Reservation Date Calculator(2020): Python, PyQt5
+  - 🏭 ESPers Starcraft Ranking System(2022): Java, JavaScript, Spring Boot, React, MySQL
 - 📈 ~~구글, 네이버, 삼성, 묵호 렛츠고~~
 
 <br><br>
