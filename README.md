@@ -14,7 +14,7 @@
 - ⚽ Goals
   - Back-End Developer
   - Develop "user-friendly" and "bug-free" services
-- ☁️ Primary Project
+- ☁️ Primary Projects
   - 📞 Reservation Date Calculator(2020): Python, PyQt5
   - 🏭 ESPers Starcraft Ranking System(2022): Java, JavaScript, Spring Boot, React, MySQL
 - 📈 ~~구글, 네이버, 삼성, 묵호 렛츠고~~
