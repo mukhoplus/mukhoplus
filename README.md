@@ -11,6 +11,7 @@
 - 👯 T.G.WinG(2016~), ESPers(2017~)
 - 🤔 Not gosu..?
 - 🔌 Hobby: 🚴‍ 🎵 🎮 💻
+  - Big fan of 🎵 vocal group 'SG Wannabe' and 🎮 starcraft progammer 'Lee Jae-dong'
 - ⚽ Goals
   - Back-End Developer
   - Develop "user-friendly" and "bug-free" services
