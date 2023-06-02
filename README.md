@@ -19,11 +19,12 @@
   - 📞 Reservation Date Calculator(2020): Python, PyQt5
   - 👩‍🎤 Singer-Composer Matching Site(2021): Node.js, MySQL
   - 📜 Underworld-Line(2022): Node.js
-  - 🏭 ESPers Starcraft Ranking System(2022): Java, JavaScript, Spring Boot, React, MySQL
+  - 🏭 ESPers Starcraft Ranking System(2022): Java, JavaScript, Spring Boot, React, MySQL, JPA
+  - 🏦 Bank Challenger(2023): Java, JavaScript, Spring Boot, React, MySQL, JPA
 - ✨ Activities and Awards
   - 🥉 2022 Kyung Hee University Spring Programming Contest(2022, Participation prize)
   - 🏃 NAVER Connect Foundation boostcamp Web·Mobile 7th(2022, Challenge)
-  - 
+  - 🪙 KB Kookmin Bank IT Academy IT's Your Life 3th(2023)
 - 📈 ~~Google, Naver, Samsung, Mukho Let's go~~
 
 <br><br>
