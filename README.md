@@ -24,7 +24,7 @@
 - ✨ Activities and Awards
   - 🥉 2022 Kyung Hee University Spring Programming Contest(2022, Participation prize)
   - 🏃 NAVER Connect Foundation boostcamp Web·Mobile 7th(2022, Challenge)
-  - 🪙 KB Kookmin Bank IT Academy IT's Your Life 3th(2023)
+  - 💰 KB Kookmin Bank IT Academy IT's Your Life 3th(2023)
 - 📈 ~~Google, Naver, Samsung, Mukho Let's go~~
 
 <br><br>
