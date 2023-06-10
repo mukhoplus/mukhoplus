@@ -21,6 +21,7 @@
   - 📜 Underworld-Line(2022): Node.js
   - 🏭 ESPers Starcraft Ranking System(2022): Java, JavaScript, Spring Boot, React, MySQL, JPA
   - 🏦 Bank Challenger(2023): Java, JavaScript, Spring Boot, React, MySQL, JPA
+  - 📄 Underworld-Line: Remastered(2023): 
 - ✨ Activities and Awards
   - 🥉 2022 Kyung Hee University Spring Programming Contest(2022, Participation Prize)
   - 🏃 NAVER Connect Foundation boostcamp Web·Mobile 7th(2022, Challenge)
