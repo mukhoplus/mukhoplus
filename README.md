@@ -19,7 +19,7 @@
 - 🔭 Student -> Made by Mukho
 - 🌱 Kyung Hee University - Computer Science and Engineering(2016 ~ 2023)
 - 👯 T.G.WinG(2016~), ESPers(2017~)
-- 🤔 Not gosu..? Not Chobo!!
+- 🤔 Not gosu..? Not chobo!!
 - 🔌 Hobby: 🚴‍ 🎵 🎮 💻
   - Big fan of 🎵 vocal group 'SG Wannabe' and 🎮 starcraft progamer 'Lee Jae-dong'
 - ⚽ Goals
