@@ -75,4 +75,4 @@
 
 ---
 
-![Mukho's GitHub stats](https://github-readme-stats.vercel.app/api?username=mukhoplus&show_icons=true&theme=react)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mukhoplus&layout=compact&theme=nightowl&langs_count=6&hide=html,css,makefile,tex,scss,ejs)
+![Mukho's GitHub stats](https://github-readme-stats.vercel.app/api?username=mukhoplus&show_icons=true&theme=react)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mukhoplus&layout=compact&theme=nightowl&langs_count=6&hide=html,css,makefile,tex,scss,ejs,jupyter%20notebook)
