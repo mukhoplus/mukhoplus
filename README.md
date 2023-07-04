@@ -28,7 +28,7 @@
 - ☁️ Primary Projects
   - 📞 Reservation Date Calculator(2020): Python, PyQt5
   - 👩‍🎤 Singer-Composer Matching Site(2021): JavaScript, Node.js, MySQL
-  - 📜 Underworld-Line(2022): JavaScript, Node.js
+  - 📜 Underworld-Line(2022): JavaScript, Node.js, Google Cloud Platform
   - 🏭 ESPers Starcraft Ranking System(2022): Java, JavaScript, Spring Boot, React, MySQL, JPA
   - 🏦 Bank Challenger(2023): Java, JavaScript, Spring Boot, React, MySQL, JPA
   - 📱 MapleStory Weekly Boss Checker(2023): Kotlin, Android
