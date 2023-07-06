@@ -2,17 +2,6 @@
 
 ## It's Me Mukho 👋
 
-![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=komogoon)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=lunalin)<br>
-
----
-
-### Made By Mukho
-
-#### 🏆 Algorithm
-#### 🔥 Continuous
-#### 🚅 Diversity
-
 ---
 
 - ❤️ 2011-11-07 ~
