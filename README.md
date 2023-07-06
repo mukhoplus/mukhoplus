@@ -4,23 +4,17 @@
 
 ---
 
-- ❤️ 2011-11-07 ~
-- 🔭 Student -> Made by Mukho
 - 🌱 Kyung Hee University - Computer Science and Engineering(2016 ~ 2023)
 - 👯 T.G.WinG(2016~), ESPers(2017~)
-- 🤔 Not gosu..? Not chobo!!
 - 🔌 Hobby: 🚴‍ 🎵 🎮 💻
-  - Big fan of 🎵 vocal group 'SG Wannabe' and 🎮 starcraft progamer 'Lee Jae-dong'
 - ⚽ Goals
   - Back-End Developer
   - Develop "user-friendly" and "bug-free" services
 - ☁️ Primary Projects
   - 📞 Reservation Date Calculator(2020): Python, PyQt5
-  - 👩‍🎤 Singer-Composer Matching Site(2021): JavaScript, Node.js, MySQL
   - 📜 Underworld-Line(2022): JavaScript, Node.js, Google Cloud Platform
   - 🏭 ESPers Starcraft Ranking System(2022): Java, JavaScript, Spring Boot, React, MySQL, JPA
   - 🏦 Bank Challenger(2023): Java, JavaScript, Spring Boot, React, MySQL, JPA
-  - 📱 MapleStory Weekly Boss Checker(2023): Kotlin, Android
   - 📄 Underworld-Line: Remastered(2023):
 - ✨ Activities and Awards
   - 🥉 2022 Kyung Hee University Spring Programming Contest(2022, **Participation Prize**)
