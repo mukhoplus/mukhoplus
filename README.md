@@ -2,8 +2,6 @@
 
 ## It's Me Mukho 👋
 
----
-
 - 🌱 Kyung Hee University - Computer Science and Engineering(2016 ~ 2023)
 - 👯 T.G.WinG(2016~), ESPers(2017~)
 - 🔌 Hobby: 🚴‍ 🎵 🎮 💻
@@ -22,6 +20,12 @@
   - 💰 KB Kookmin Bank IT Academy IT's Your Life 3th(2023)
 
 ---
+
+<details>
+<summary>
+  <h2>Stacks</h2>
+</summary>
+<div markdown="1">
 
 ### 💬 Languages
 
@@ -54,6 +58,9 @@
 <img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white"> <img src="https://img.shields.io/badge/Sourcetree-0052CC?style=for-the-badge&logo=Sourcetree&logoColor=white"> <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white"><br>
 <img src="https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=Google%20Drive&logoColor=white"> <img src="https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white"> <img src="https://img.shields.io/badge/Microsoft%20Access-A4373A?style=for-the-badge&logo=Microsoft%20Access&logoColor=white"><br>
 <img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=Notion&logoColor=white"> <img src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=for-the-badge&logo=adobepremierepro&logoColor=white"> <img src="https://img.shields.io/badge/Naver-03C75A?style=for-the-badge&logo=naver&logoColor=white">
+
+</div>
+</details>
 
 ---
 
