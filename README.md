@@ -12,15 +12,14 @@
   - Develop "user-friendly" and "bug-free" services
 - ☁️ Primary Projects
   - 📞 Reservation Date Calculator(2020): Python, PyQt5
-  - 📜 Underworld-Line(2022): JavaScript, Node.js, Google Cloud Platform
+  - 📜 Underworld-Line(2022): JavaScript, Node.js, GCP
   - 🏭 ESPers Starcraft Ranking System(2022): Java, JavaScript, Spring Boot, React, MySQL, JPA
   - 🏦 Bank Challenger(2023): Java, JavaScript, Spring Boot, React, MySQL, JPA
-  - 📄 Underworld-Line: Remastered(2023):
+  - 📄 Underworld-Line: Remastered(2023): Java, JavaScript, Spring Boot, React, MySQL, JPA, AWS
 - ✨ Activities and Awards
   - 🥉 2022 Kyung Hee University Spring Programming Contest(2022, **Participation Prize**)
   - 🏃 NAVER Connect Foundation boostcamp Web·Mobile 7th(2022, Challenge)
   - 💰 KB Kookmin Bank IT Academy IT's Your Life 3th(2023)
-- 📈 ~~Google, Naver, Samsung, Mukho Let's go~~
 
 ---
 
