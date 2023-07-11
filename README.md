@@ -23,7 +23,7 @@
 
 <details>
 <summary>
-  <h2>Stacks</h2>
+  <h2>Stacks (CLICK ME)</h2>
 </summary>
 <div markdown="1">
 
