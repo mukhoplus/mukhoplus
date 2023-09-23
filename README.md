@@ -20,20 +20,20 @@
   - 💰 KB Kookmin Bank IT Academy IT's Your Life 3th(2023)
 
 ---
-
 <details>
   <summary>
-    <h2>Stacks (CLICK ME)</h2>
+    <b>Stacks (CLICK ME)</b>
   </summary>
-  <div markdown="1">
   
+  <div markdown="1">
+    
   ### 💬 Languages
   
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"> <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white"><br>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"> <img src="https://img.shields.io/badge/kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"><br>
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white"> <img src="https://img.shields.io/badge/VBA-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white">
   
-  ### Back-end
+  ### 📦 Back-end
   
   <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=Spring%20Boot&logoColor=white"> <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=%2361DAFB"> <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=%2361DAFB"><br>
   <img src="https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white">
