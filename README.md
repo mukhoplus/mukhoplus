@@ -55,7 +55,8 @@
   ### 👻 Frameworks, Platforms and Libraries
   
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"> <img src="https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white"> <img src="https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=Qt&logoColor=white"><br>
-  <img src="https://img.shields.io/badge/Amazon%20EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white"> <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"><br>
+  <img src="https://img.shields.io/badge/Amazon%20EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white"> <img src="https://img.shields.io/badge/Google%20Cloud-2088FF?style=for-the-badge&logo=googlecloud&logoColor=white"><br>
+  <img src="https://img.shields.io/badge/Github%20Actions-4285F4?style=for-the-badge&logo=githubactions&logoColor=white"><br>
   
   ### 🖱️ etc
   
