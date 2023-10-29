@@ -69,8 +69,8 @@
 
   ### 🙏 Thanks to
   
-  <img src="https://img.shields.io/badge/LG-A50034?style=for-the-badge&logo=lg&logoColor=white">
   <img src="https://img.shields.io/badge/Naver-03C75A?style=for-the-badge&logo=naver&logoColor=white">
+    <img src="https://img.shields.io/badge/LG-A50034?style=for-the-badge&logo=lg&logoColor=white">
   
   </div>
 </details>
