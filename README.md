@@ -2,7 +2,7 @@
 
 ## It's Me Mukho 👋
 
-- ❄️ ~~Back-End Developer~~ Software Engineer(Full Stack)
+- ❄️ ~~Back-End~~ Developer
 - 🌱 Kyung Hee University - Computer Science and Engineering(2016 ~ 2023)
 - 👯 T.G.WinG(2016~), ESPers(2017~)
 - 🔌 Hobby: 🚴‍ 🎵 🎮 💻
