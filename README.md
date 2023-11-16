@@ -4,7 +4,7 @@
 
 - ❄️ ~~Back-End~~ Developer
 - 🌱 Kyung Hee University - Computer Science and Engineering(2016 ~ 2023)
-- 👯 T.G.WinG(2016~2023), ESPers(2017~)
+- 👯 T.G.WinG(2016 ~ 2023), ESPers(2017~)
 - 🔌 Hobby: 🚴‍ 🎵 🎮 💻
 - 👩‍🎨 Strength: Algorithm, Consistent, Diversity
 - ⚽ Goals
