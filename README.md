@@ -14,7 +14,6 @@
   - 📜 Underworld-Line(2022): JavaScript, Node.js, GCP
   - 🏭 **ESPers Starcraft Ranking System(2022)**: Java, JavaScript, Spring Boot, React, MySQL, JPA, OCI(GCP)
   - 🏦 Bank Challenger(2023): Java, JavaScript, Spring Boot, React, MySQL, JPA
-  - 📄 *GoLAB(Underworld-Line: Remastered, 2023): Java, JavaScript, Spring Boot, React, MySQL, JPA, AWS*
   - 🌨️ Mukho Minor Gallery(2023): JavaScript, Node.js, Express, MySQL, OCI(GCP)
   - 📗 **Underworld-LINE-Plus(2023)**: Java, JavaScript, Spring Boot, React, MySQL, MyBatis, OCI
 - ✨ Activities and Awards
