@@ -16,9 +16,10 @@
   - 🏦 Bank Challenger(2023): Java, JavaScript, Spring Boot, React, MySQL, JPA
   - 🌨️ Mukho Minor Gallery(2023): JavaScript, Node.js, Express, MySQL, OCI(GCP)
   - 📗 **Underworld-LINE-Plus(2023)**: Java, JavaScript, Spring Boot, React, MySQL, MyBatis, OCI
+  - 📱 **Underworld-LINE-Plus-Mobile(2023)**: JavaScript, TypeScript, React Native
 - ✨ Activities and Awards
   - 🥉 2022 Kyung Hee University Spring Programming Contest(2022, **`Participation Prize`**)
-  - 🏃 NAVER Connect Foundation boostcamp Web·Mobile 7th(2022, Challenge)
+  - 🏃 NAVER Connect Foundation boostcamp web·mobile 7th(2022, Challenge)
   - 💰 KB Kookmin Bank IT Academy IT's Your Life 3th(2023)
 
 ---
@@ -32,8 +33,8 @@
   ### 💬 Languages
   
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"> <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"><br>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white"> <img src="https://img.shields.io/badge/kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"> <img src="https://img.shields.io/badge/dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"><br>
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white"> <img src="https://img.shields.io/badge/VBA-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white"> <img src="https://img.shields.io/badge/kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"><br>
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white"> <img src="https://img.shields.io/badge/dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"> <img src="https://img.shields.io/badge/VBA-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white">
   
   ### 📦 Back-end
   
@@ -55,7 +56,7 @@
 
   ### ☁️ Cloud
   
-  <img src="https://img.shields.io/badge/Google%20Cloud-2088FF?style=for-the-badge&logo=googlecloud&logoColor=white"> <img src="https://img.shields.io/badge/Oracle%20Cloud-F80000?style=for-the-badge&logo=Oracle&logoColor=white"> <img src="https://img.shields.io/badge/Amazon%20AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"><br>
+  <img src="https://img.shields.io/badge/Oracle%20Cloud-F80000?style=for-the-badge&logo=Oracle&logoColor=white"> <img src="https://img.shields.io/badge/Google%20Cloud-2088FF?style=for-the-badge&logo=googlecloud&logoColor=white"> <img src="https://img.shields.io/badge/Amazon%20AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"><br>
   <img src="https://img.shields.io/badge/Github%20Actions-4285F4?style=for-the-badge&logo=githubactions&logoColor=white">
   
   ### 🧰 IDE
