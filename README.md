@@ -3,8 +3,10 @@
 ## It's Me Mukho 👋
 
 - ❄️ Developer
+  - ⌨️ Biztech i - Software Engineer(2023)
 - 🌱 Kyung Hee University - Computer Science and Engineering(2016 ~ 2023)
-- 👯 T.G.WinG(2016 ~ 2023), ESPers(2017~)
+  - 👯 T.G.WinG(2016 ~ 2023), ESPers(2017~)
+- 🏪 Main Skill: **`Spring`**(Java), **``React``**(JavaScript)
 - 🔌 Hobby: 🚴‍ 🎵 🎮 💻
 - 👩‍🎨 Strength: Algorithm, Consistent, Diversity
 - ⚽ Goals
@@ -17,6 +19,7 @@
   - 🌨️ Mukho Minor Gallery(2023): JavaScript, Node.js, Express, MySQL, OCI(GCP)
   - 📗 **Underworld-LINE-Plus(2023)**: Java, JavaScript, Spring Boot, React, MySQL, MyBatis, OCI
   - 📱 **Underworld-LINE-Plus-Mobile(2023)**: JavaScript, TypeScript, React Native
+  - 🏆 **undefined(2024)**: undefined
 - ✨ Activities and Awards
   - 🥉 2022 Kyung Hee University Spring Programming Contest(2022, **`Participation Prize`**)
   - 🏃 NAVER Connect Foundation boostcamp web·mobile 7th(2022, Challenge)
@@ -54,10 +57,10 @@
 
   <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=Android&logoColor=white"> <img src="https://img.shields.io/badge/React%20Native-61DAFB?style=for-the-badge&logo=react&logoColor=white"> <img src="https://img.shields.io/badge/flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
 
-  ### ☁️ Cloud
+  ### ☁️ Cloud & DevOps
   
   <img src="https://img.shields.io/badge/Oracle%20Cloud-F80000?style=for-the-badge&logo=Oracle&logoColor=white"> <img src="https://img.shields.io/badge/Google%20Cloud-2088FF?style=for-the-badge&logo=googlecloud&logoColor=white"> <img src="https://img.shields.io/badge/Amazon%20AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"><br>
-  <img src="https://img.shields.io/badge/Github%20Actions-4285F4?style=for-the-badge&logo=githubactions&logoColor=white">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"> <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white"> <img src="https://img.shields.io/badge/Github%20Actions-4285F4?style=for-the-badge&logo=githubactions&logoColor=white">
   
   ### 🧰 IDE
   
@@ -77,8 +80,7 @@
 
   ### 🙏 Thanks to
   
-  <img src="https://img.shields.io/badge/Naver-03C75A?style=for-the-badge&logo=naver&logoColor=white">
-   <img src="https://img.shields.io/badge/LG-A50034?style=for-the-badge&logo=lg&logoColor=white">
+  <img src="https://img.shields.io/badge/Naver-03C75A?style=for-the-badge&logo=naver&logoColor=white"> <img src="https://img.shields.io/badge/LG-A50034?style=for-the-badge&logo=lg&logoColor=white">
    
   </div>
 </details>
