@@ -3,7 +3,7 @@
 ## It's Me Mukho 👋
 
 - ❄️ Developer
-  - ⌨️ Biztech i - Software Engineer(2023)
+  - ⌨️ *** - Software Engineer(2023)
 - 🌱 Kyung Hee University - Computer Science and Engineering(2016 ~ 2023)
   - 👯 T.G.WinG(2016 ~ 2023), ESPers(2017~)
 - 🏪 Main Skill: **`Spring`**(Java), **``React``**(JavaScript)
@@ -20,6 +20,7 @@
   - 📗 **Underworld-LINE-Plus(2023)**: Java, JavaScript, Spring Boot, React, MySQL, MyBatis, OCI
   - 📱 **Underworld-LINE-Plus-Mobile(2023)**: JavaScript, TypeScript, React Native
   - ⏰ **Mlock(2024)**: JavaScript, React
+  - 📋 Mukho Mini Gallery(2024): Java, Spring Boot, MySQL, JPA, OCI, Docker, Jenkins, Nginx
   - 🏆 **Wingscord(2024)**: undefined
 - ✨ Activities and Awards
   - 🥉 2022 Kyung Hee University Spring Programming Contest(2022, **`Participation Prize`**)
