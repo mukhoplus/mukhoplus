@@ -20,7 +20,7 @@
   - 📗 **Underworld-LINE-Plus(2023)**: Java, JavaScript, Spring Boot, React, MySQL, MyBatis, OCI
   - 📱 **Underworld-LINE-Plus-Mobile(2023)**: JavaScript, TypeScript, React Native
   - ⏰ **Mlock(2024)**: JavaScript, React
-  - 📋 Mukho Mini Gallery(2024): Java, Spring Boot, Timeleaf, MySQL, JPA, OCI, Docker, Nginx
+  - 📋 Mukho Mini Gallery(2024): Java, Spring Boot, Thymeleaf, MySQL, JPA, OCI, Nginx
   - 🏆 **Wingscord(2024)**: undefined
 - ✨ Activities and Awards
   - 🥉 2022 Kyung Hee University Spring Programming Contest(2022, **`Participation Prize`**)
