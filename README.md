@@ -21,6 +21,7 @@
   - 📱 **Underworld-LINE-Plus-Mobile(2023)**: JavaScript, TypeScript, React Native
   - ⏰ **Mlock(2024)**: JavaScript, React
   - 📋 Mukho Mini Gallery(2024): Java, Spring Boot, MySQL, JPA, OCI, Nginx
+  - 🥅 undefined(2024) : Dart, Flutter
   - 🏆 **Wingscord(2024)**: undefined
 - ✨ Activities and Awards
   - 🥉 2022 Kyung Hee University Spring Programming Contest(2022, **`Participation Prize`**)
@@ -55,7 +56,7 @@
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"> <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=HTML5&logoColor=white"> <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=CSS3&logoColor=white"><br>
   <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jQuery&logoColor=white"> <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=Bootstrap&logoColor=white"> <img src="https://img.shields.io/badge/Ant%20Design-0170FE?style=for-the-badge&logo=Ant%20Design&logoColor=white"><br>
 
-  ### 🌕 Mobile(Hybrid)
+  ### 🌕 Mobile
 
   <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=Android&logoColor=white"> <img src="https://img.shields.io/badge/React%20Native-61DAFB?style=for-the-badge&logo=react&logoColor=white"> <img src="https://img.shields.io/badge/flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
 
