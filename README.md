@@ -15,13 +15,13 @@
   - 📞 **Reservation Date Calculator(2020)**: Python, PyQt5
   - 📜 Underworld-Line(2022): JavaScript, Node.js, GCP
   - 🏭 **ESPers Starcraft Ranking System(2022)**: Java, JavaScript, Spring Boot, React, MySQL, JPA, OCI(GCP)
-  - 🏦 Bank Challenger(2023): Java, JavaScript, Spring Boot, React, MySQL, JPA
+  - 🏦 **Bank Challenger(2023)**: Java, JavaScript, Spring Boot, React, MySQL, JPA
   - 🌨️ Mukho Minor Gallery(2023): JavaScript, Node.js, Express, MySQL, OCI(GCP)
   - 📗 **Underworld-LINE-Plus(2023)**: Java, JavaScript, Spring Boot, React, MySQL, MyBatis, OCI
   - 📱 **Underworld-LINE-Plus-Mobile(2023)**: JavaScript, TypeScript, React Native
   - ⏰ **Mlock(2024)**: JavaScript, React
   - 📋 Mukho Mini Gallery(2024): Java, Spring Boot, MySQL, JPA, OCI, Nginx
-  - 🥅 **PungDeong(2024)** : Dart, Flutter
+  - 🥅 PungDeong(2024) : Dart, Flutter
   - 🏆 **Wingscord(2024)**: undefined
 - ✨ Activities and Awards
   - 🥉 2022 Kyung Hee University Spring Programming Contest(2022, **`Participation Prize`**)
