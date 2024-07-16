@@ -22,7 +22,7 @@
   - ⏰ **Mlock(2024)**: JavaScript, React
   - 📋 Mukho Mini Gallery(2024): Java, Spring Boot, MySQL, JPA, OCI, Nginx
   - 🥅 PungDeong(2024) : Dart, Flutter
-  - :dependabot: **?? Bot(2024)** : TypeScript, Express.js
+  - :dependabot: **ChangSeop Bot(2024)** : TypeScript, Express.js
 - ✨ Activities and Awards
   - 🥉 2022 Kyung Hee University Spring Programming Contest(2022, **`Participation Prize`**)
   - 🏃 NAVER Connect Foundation boostcamp web·mobile 7th(2022, Challenge)
