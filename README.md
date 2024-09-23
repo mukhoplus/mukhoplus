@@ -22,7 +22,7 @@
   - ⏰ **Mlock(2024)**: JavaScript, React
   - 📋 Mukho Mini Gallery(2024): Java, Spring Boot, MySQL, JPA, OCI, Nginx
   - 🥅 PungDeong(2024) : Dart, Flutter
-  - **Question Bank(2024)**: Python, Tkinter
+  - ❓ **Question Bank(2024)**: Python, Tkinter
   - :dependabot: **undefined(2024)** : TypeScript, NestJS, MySQL, MongoDB, React Native, React, OCI, Github Actions
 - ✨ Activities and Awards
   - 🥉 2022 Kyung Hee University Spring Programming Contest(2022, **`Participation Prize`**)
