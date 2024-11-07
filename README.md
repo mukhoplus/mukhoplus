@@ -19,7 +19,7 @@
   - ⏰ **Mlock(2024)**: JavaScript, React
   - 📋 Mukho Mini Gallery(2024): Java, Spring Boot, MySQL, JPA, OCI, Nginx
   - 🥅 PungDeong(2024) : Dart, Flutter
-  - 👐 **SsamMuTalk(2024)**: TypeScript, Nest.js, React, MySQL, MongoDB, ???
+  - 👐 **SsamMuTalk(2024)**: TypeScript, Nest.js, React, MySQL, MongoDB Atlas, Nginx
   - ❓ **Question Bank(2024)**: Python, Tkinter
   - :dependabot: **undefined(2024)** : TypeScript, NestJS, MySQL, MongoDB, React Native, React, OCI, Github Actions
 - ✨ Activities and Awards
