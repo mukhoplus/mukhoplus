@@ -4,11 +4,11 @@
 
 - ❄️ Developer
   - ⌨️ *** - Software Engineer(2023)
-- 🌱 Kyung Hee University - Computer Science and Engineering(2016 ~ 2023)
-- 🏪 Main Skill: **`Spring`**(Java, Backend), **``React``**(TypeScript, Frontend)
-- 👩‍🎨 Strength: Algorithm, Consistent, Diversity
+- 🏪 Main Skill: **`Spring`**(Java), **``React``**(TypeScript)
 - ⚽ Goals
   - Develop "user-friendly" and "bug-free" services
+- 👩‍🎨 Strength: Algorithm, Consistent, Diversity
+- 🌱 Kyung Hee University - Computer Science and Engineering(2016 ~ 2023)
 - 👻 Primary Projects - `Made By Mukho`
   - 📞 **Reservation Date Calculator(2020)**: Python, PyQt5
   - 🏭 **ESPers Starcraft Ranking System(2022)**: Java, JavaScript, Spring Boot, React, MySQL, JPA, OCI(GCP)
