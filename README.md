@@ -5,7 +5,7 @@
 - ❄️ Developer
   - ⌨️ *** - Software Engineer(2023)
 - 🌱 Kyung Hee University - Computer Science and Engineering(2016 ~ 2023)
-- 🏪 Main Skill: **`Spring`**(Java), **``React``**(JavaScript)
+- 🏪 Main Skill: **`Spring`**(Java), **``React``**(TypeScript)
 - 👩‍🎨 Strength: Algorithm, Consistent, Diversity
 - ⚽ Goals
   - Develop "user-friendly" and "bug-free" services
@@ -13,15 +13,10 @@
   - 📞 **Reservation Date Calculator(2020)**: Python, PyQt5
   - 🏭 **ESPers Starcraft Ranking System(2022)**: Java, JavaScript, Spring Boot, React, MySQL, JPA, OCI(GCP)
   - 🏦 **Bank Challenger(2023)**: Java, JavaScript, Spring Boot, React, MySQL, JPA
-  - 🌨️ Mukho Minor Gallery(2023): JavaScript, Node.js, Express, MySQL, OCI(GCP)
-  - 📗 **Underworld-LINE-Plus(2022 ~ 2023)**: Java, JavaScript, Spring Boot, React, MySQL, MyBatis, OCI
-  - 📱 **Underworld-LINE-Plus-Mobile(2023)**: JavaScript, TypeScript, React Native
-  - ⏰ **Mlock(2024)**: JavaScript, React
-  - 📋 Mukho Mini Gallery(2024): Java, Spring Boot, MySQL, JPA, OCI, Nginx
-  - 🥅 PungDeong(2024) : Dart, Flutter
-  - 👐 **SsamMuTalk(2024)**: TypeScript, Nest.js, React, MySQL, MongoDB Atlas, Nginx
+  - 📗 **Underworld-LINE-Plus(Mobile)(2023)**: Java, JavaScript, Spring Boot, React, React Native, MySQL, MyBatis, OCI
+  - 🍁 **SsamMuTalk(2024)**: TypeScript, Nest.js, React, MySQL, TypeORM, MongoDB Atlas, OCI, Nginx, Docker, Jenkins
   - ❓ **Question Bank(2024)**: Python, Tkinter
-  - :dependabot: **undefined(2024)** : TypeScript, NestJS, MySQL, MongoDB, React Native, React, OCI, Github Actions
+  - :dependabot: **undefined(2024)** : Pending
 - ✨ Activities and Awards
   - 🥉 2022 Kyung Hee University Spring Programming Contest(2022, **`Participation Prize`**)
   - 🏃 NAVER Connect Foundation boostcamp web·mobile 7th(2022, Challenge)
@@ -62,12 +57,12 @@
   ### ☁️ Cloud & DevOps
   
   <img src="https://img.shields.io/badge/Oracle%20Cloud-F80000?style=for-the-badge&logo=Oracle&logoColor=white"> <img src="https://img.shields.io/badge/Google%20Cloud-2088FF?style=for-the-badge&logo=googlecloud&logoColor=white"> <img src="https://img.shields.io/badge/Amazon%20AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"><br>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"> <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white"> <img src="https://img.shields.io/badge/Github%20Actions-4285F4?style=for-the-badge&logo=githubactions&logoColor=white">
+  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white"> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"> <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white"> <img src="https://img.shields.io/badge/Github%20Actions-4285F4?style=for-the-badge&logo=githubactions&logoColor=white">
   
   ### 🧰 IDE
   
-  <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=Visual%20Studio&logoColor=white"> <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white"> <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellij%20idea&logoColor=white"><br>
-  <img src="https://img.shields.io/badge/Eclipse%20IDE-2C2255?style=for-the-badge&logo=eclipse-ide&logoColor=white"> <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white"> <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white">
+  <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white"> <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellij%20idea&logoColor=white"> <img src="https://img.shields.io/badge/Cursor%20IDE-000000?style=for-the-badge&logo=cursor&logoColor=white"><br>
+  <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=Visual%20Studio&logoColor=white"> <img src="https://img.shields.io/badge/Eclipse%20IDE-2C2255?style=for-the-badge&logo=eclipse-ide&logoColor=white"> <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white"> <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white">
   
   ### 🖥️ OS
   
@@ -83,6 +78,13 @@
   ### 🙏 Thanks to
   
   <img src="https://img.shields.io/badge/Naver-03C75A?style=for-the-badge&logo=naver&logoColor=white"> <img src="https://img.shields.io/badge/LG-A50034?style=for-the-badge&logo=lg&logoColor=white">
+
+  - 👻 Projects
+    - 💻 Underworld-LINE(2022): JavaScript, Node.js, GCP
+    - 🌨️ Mukho Minor Gallery(2023): JavaScript, Express, MySQL, OCI
+    - ⏰ Mlock(2024): JavaScript, React
+    - 📋 Mukho Mini Gallery(2024): Java, Spring Boot, MySQL, JPA, OCI, Nginx
+    - 🥅 PungDeong(2024) : Dart, Flutter
    
   </div>
 </details>
