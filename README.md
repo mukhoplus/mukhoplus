@@ -5,7 +5,7 @@
 - ❄️ Developer
   - ⌨️ *** - Software Engineer(2023)
 - 🌱 Kyung Hee University - Computer Science and Engineering(2016 ~ 2023)
-- 🏪 Main Skill: **`Spring`**(Java), **``React``**(TypeScript)
+- 🏪 Main Skill: **`Spring`**(Java, Backend), **``React``**(TypeScript, Frontend)
 - 👩‍🎨 Strength: Algorithm, Consistent, Diversity
 - ⚽ Goals
   - Develop "user-friendly" and "bug-free" services
