@@ -16,7 +16,7 @@
   - 📗 **Underworld-LINE-Plus(Mobile)(2023)**: Java, JavaScript, Spring Boot, React, React Native, MySQL, MyBatis, OCI
   - 🍁 **SsamMuTalk(2024)**: TypeScript, Nest.js, React, MySQL, TypeORM, MongoDB Atlas, OCI, Nginx, Docker, Jenkins
   - ❓ **Question Bank(2024)**: Python, Tkinter
-  - :dependabot: **undefined(2024)** : Pending
+  - ☔ **Oh My Umbrella(2024)** : Pending
 - ✨ Activities and Awards
   - 🥉 2022 Kyung Hee University Spring Programming Contest(2022, **`Participation Prize`**)
   - 🏃 NAVER Connect Foundation boostcamp web·mobile 7th(2022, Challenge)
