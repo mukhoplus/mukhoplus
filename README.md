@@ -80,7 +80,7 @@
   <img src="https://img.shields.io/badge/Naver-03C75A?style=for-the-badge&logo=naver&logoColor=white"> <img src="https://img.shields.io/badge/LG-A50034?style=for-the-badge&logo=lg&logoColor=white">
 
   - 👻 Projects
-    - 👩‍🎤 Singer-Composer(2021): JavaScript, Express, AWS
+    - 👩‍🎤 Singer-Composer(2021): JavaScript, Express, MySQL, AWS
     - 💻 Underworld-LINE(2022): JavaScript, Node.js, GCP
     - 🌨️ Mukho Minor Gallery(2023): JavaScript, Express, MySQL, OCI
     - ⏰ Mlock(2024): JavaScript, React
