@@ -82,10 +82,12 @@
   - 👻 Projects
     - 👩‍🎤 Singer-Composer(2021): JavaScript, Express, MySQL, AWS
     - 💻 Underworld-LINE(2022): JavaScript, Node.js, GCP
+    - 📆 MapleStory Weekly Boss Checker(2023): Java, Android
     - 🌨️ Mukho Minor Gallery(2023): JavaScript, Express, MySQL, OCI
     - ⏰ Mlock(2024): JavaScript, React
     - 📋 Mukho Mini Gallery(2024): Java, Spring Boot, MySQL, JPA, OCI, Nginx
-    - 🥅 PungDeong(2024) : Dart, Flutter
+    - 🥅 PungDeong(2024): Dart, Flutter
+    - 🍭 MukhoGG(2024): Java, Spring Boot, Thymeleaf
    
   </div>
 </details>
