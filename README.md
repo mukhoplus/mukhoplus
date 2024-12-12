@@ -9,12 +9,12 @@
   - Develop "user-friendly" and "bug-free" services
 - 👩‍🎨 Strength: Algorithm, Consistent, Diversity
 - 🌱 Kyung Hee University - Computer Science and Engineering(2016 ~ 2023)
-- 👻 Primary Projects - `Made By Mukho`
+- 👻 Primary Projects
   - 📞 **Reservation Date Calculator(2020)**: Python, PyQt5
   - 🏭 **ESPers Starcraft Ranking System(2022)**: Java, JavaScript, Spring Boot, React, MySQL, JPA, OCI(GCP)
   - 🏦 **Bank Challenger(2023)**: Java, JavaScript, Spring Boot, React, MySQL, JPA
   - 📗 **Underworld-LINE-Plus(Mobile)(2023)**: Java, JavaScript, Spring Boot, React, React Native, MySQL, MyBatis, OCI
-  - 🍁 **SsamMuTalk(2024)**: TypeScript, Nest.js, React, MySQL, TypeORM, MongoDB Atlas, OCI, Nginx, Docker, Jenkins
+  - 🍁 SsamMuTalk(2024): TypeScript, Nest.js, React, MySQL, TypeORM, MongoDB Atlas, OCI, Nginx, Docker, Jenkins
   - ❓ **Question Bank(2024)**: Python, Tkinter
   - ☔ **Oh My Umbrella(2024, ~ing)** : Java, Spring Boot, TypeScript, React Native, MySQL, JPA, OCI, Docker, Jenkins
 - ✨ Activities and Awards
