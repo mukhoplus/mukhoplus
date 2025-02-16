@@ -11,13 +11,15 @@
 - 🌱 Kyung Hee University - Computer Science and Engineering(2016 ~ 2023)
 - 👻 Primary Projects
   - 📞 **Reservation Date Calculator(2020)**: Python, PyQt5
-  - 🏭 **ESPers Starcraft Ranking System(2022)**: Java, JavaScript, Spring Boot, React, MySQL, JPA, OCI(GCP)
-  - 🏦 **Bank Challenger(2023)**: Java, JavaScript, Spring Boot, React, MySQL, JPA
-  - 📗 **Underworld-LINE-Plus(2023)**: Java, JavaScript, Spring Boot, React, React Native, MySQL, MyBatis, OCI
+  - 🏭 **ESPers Starcraft Ranking System(2022)**: Java, Spring Boot, JavaScript, React, MySQL, JPA, OCI(GCP)
+  - 🏦 **Bank Challenger(2023)**: Java, Spring Boot, JavaScript, React, MySQL, JPA
+  - 📗 **Underworld LINE+(Mobile)(2023)**: Java, Spring Boot, JavaScript, React, React Native, MySQL, MyBatis, OCI
   - 🍁 SsamMuTalk(2024): TypeScript, Nest.js, React, MySQL, TypeORM, MongoDB Atlas, OCI, Nginx, Docker, Jenkins
   - ❓ **Question Bank(2024)**: Python, Tkinter
-  - ☔ **Oh My Umbrella(2024, ~ing)**: Java, Spring Boot, TypeScript, React Native, MySQL, JPA, OCI, Docker, Jenkins
-  - 📚 **EduBox(2024, ~ing)**: [FE] TypeScript, React
+  - ☔ Oh My Umbrella(2024, ~ing): Java, Spring Boot, TypeScript, React Native, MySQL, JPA, OCI, Docker, Jenkins
+  - 📚 EduBox(2024, ~ing): [FE] TypeScript, React
+  - 📱 **Underworld LINE Pro(2025)**: Java, Spring Boot, TypeScript, React, MySQL, MyBatis, OCI, Docker, Jenkins
+  - 🎲 **ESPers Data Area(2025, ~ing)**: Java, Spring Boot, TypeScript, React, MySQL, JPA, OCI, Docker, Jenkins
 - ✨ Activities and Awards
   - 🥉 2022 Kyung Hee University Spring Programming Contest(2022, **`Participation Prize`**)
   - 🏃 NAVER Connect Foundation boostcamp web·mobile 7th(2022, Challenge)
