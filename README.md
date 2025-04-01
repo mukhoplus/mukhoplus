@@ -16,10 +16,7 @@
   - 📗 **Underworld LINE+(Mobile)(2023)**: Java, Spring Boot, JavaScript, React, React Native, MySQL, MyBatis, OCI
   - 🍁 SsamMuTalk(2024): TypeScript, Nest.js, React, MySQL, TypeORM, MongoDB Atlas, OCI, Nginx, Docker, Jenkins
   - ❓ **Question Bank(2024)**: Python, Tkinter
-  - ☔ Oh My Umbrella(2024, ~ing): Java, Spring Boot, TypeScript, React Native, MySQL, JPA, OCI, Docker, Jenkins
-  - 📚 EduBox(2024, ~ing): [FE] TypeScript, React
   - 📱 **Underworld LINE Pro(2025)**: Java, Spring Boot, TypeScript, React, MySQL, MyBatis, OCI, Docker, Jenkins
-  - 🎲 **ESPers Data Area(2025, ~ing)**: Java, Spring Boot, TypeScript, React, MySQL, JPA, OCI, Docker, Jenkins
 - ✨ Activities and Awards
   - 🥉 2022 Kyung Hee University Spring Programming Contest(2022, **`Participation Prize`**)
   - 🏃 NAVER Connect Foundation boostcamp web·mobile 7th(2022, Challenge)
@@ -92,6 +89,9 @@
     - 🥅 PungDeong(2024): Dart, Flutter
     - 🍭 MukhoGG(2024): Java, Spring Boot, Thymeleaf
     - 🚆 Oh-My-Last-Transit(2024): TypeScript, React Native, JavaScript, Express
+    - ☔ Oh My Umbrella(2024, Prototype): Java, Spring Boot, TypeScript, React Native, MySQL, JPA, OCI, Docker, Jenkins
+    - 📚 EduBox(2024, Pause): [FE] TypeScript, React
+    - 🎲 ESPers Data Area(2025, Pause): Java, Spring Boot, TypeScript, React, MySQL, JPA, OCI, Docker, Jenkins
    
   </div>
 </details>
