@@ -16,7 +16,8 @@
   - 📗 **Underworld LINE+(Mobile)(2023)**: Java, Spring Boot, JavaScript, React, React Native, MySQL, MyBatis, OCI
   - 🍁 SsamMuTalk(2024): TypeScript, Nest.js, React, MySQL, TypeORM, MongoDB Atlas, OCI, Nginx, Docker, Jenkins
   - ❓ **Question Bank(2024)**: Python, Tkinter
-  - 📱 **Underworld LINE Pro(2025)**: Java, Spring Boot, TypeScript, React, MySQL, MyBatis, OCI, Docker, Jenkins
+  - 📱 **Underworld LINE Pro(2025)**: Java, Spring Boot, TypeScript, React, MySQL, MyBatis, OCI, Nginx, Docker, Jenkins
+  - 🤖 SsamMuBot(2025): Kotlin, Spring Boot, Redis, OCI, Nginx, Docker, Jenkins
 - ✨ Activities and Awards
   - 🥉 2022 Kyung Hee University Spring Programming Contest(2022, **`Participation Prize`**)
   - 🏃 NAVER Connect Foundation boostcamp web·mobile 7th(2022, Challenge)
