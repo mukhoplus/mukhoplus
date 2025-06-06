@@ -92,7 +92,6 @@
     - 🚆 Oh-My-Last-Transit(2024): TypeScript, React Native, JavaScript, Express
     - ☔ Oh My Umbrella(2024, Prototype): Java, Spring Boot, TypeScript, React Native, MySQL, JPA, OCI, Docker, Jenkins
     - 📚 EduBox(2024, Pause): [FE] TypeScript, React
-    - 🎲 ESPers Data Area(2025, Pause): Java, Spring Boot, TypeScript, React, MySQL, JPA, OCI, Docker, Jenkins
    
   </div>
 </details>
