@@ -93,6 +93,7 @@
     - ☔ Oh My Umbrella(2024, Prototype): Java, Spring Boot, TypeScript, React Native, MySQL, JPA, OCI, Docker, Jenkins
     - 📚 EduBox(2024, Pause): [FE] TypeScript, React
     - 🤖 SsamMuBot(2025): Kotlin, Spring Boot, Redis, OCI, Nginx, Docker, Jenkins
+    - 👩‍🏫 MukhoLab(2025): JavaScript, Express, HTML, CSS, OCI, Nginx, Docker, Jenkins
    
   </div>
 </details>
