@@ -12,9 +12,9 @@
 - 🌱 Kyung Hee University - Computer Science and Engineering(2016 ~ 2023)
 - 👻 Primary Projects
   - 📞 **Reservation Date Calculator(2020)**: Python, PyQt5
-  - 🏭 **ESPers Starcraft Ranking System(2022)**: Java, Spring Boot, JavaScript, React, MySQL, JPA, OCI(GCP)
+  - 🏭 **ESPers Starcraft Ranking System(2022)**: Java, Spring Boot, JavaScript, React, MySQL, JPA, OCI(GCP), Nginx
   - 🏦 **Bank Challenger(2023)**: Java, Spring Boot, JavaScript, React, MySQL, JPA
-  - 📗 **Underworld LINE+(Mobile)(2023)**: Java, Spring Boot, JavaScript, React, React Native, MySQL, MyBatis, OCI
+  - 📗 **Underworld LINE+(Mobile)(2023)**: Java, Spring Boot, JavaScript, React, React Native, MySQL, MyBatis, OCI, Nginx
   - 🍁 SsamMuTalk(2024): TypeScript, Nest.js, React, MySQL, TypeORM, MongoDB Atlas, OCI, Nginx, Docker, Jenkins
   - ❓ **Question Bank(2024)**: Python, Tkinter
   - 📱 **Underworld LINE Pro(2025)**: Java, Spring Boot, TypeScript, React, MySQL, MyBatis, OCI, Nginx, Docker, Jenkins
