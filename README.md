@@ -45,7 +45,8 @@
 
   ### 🕸️ Frontend
   
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"> <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"> <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=HTML5&logoColor=white"> <img src="https://img.shields.io/badge/CSS-663399?style=for-the-badge&logo=CSS&logoColor=white"> <img src="https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=Qt&logoColor=white"><br>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"> <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"> <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=HTML5&logoColor=white"> <img src="https://img.shields.io/badge/CSS-663399?style=for-the-badge&logo=CSS&logoColor=white"><br>
+  <img src="https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=Qt&logoColor=white"> <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white"><br>
   <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jQuery&logoColor=white"> <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=Bootstrap&logoColor=white"> <img src="https://img.shields.io/badge/Ant%20Design-0170FE?style=for-the-badge&logo=Ant%20Design&logoColor=white"> <img src="https://img.shields.io/badge/Tailwind%20css-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"><br>
   <img src="https://img.shields.io/badge/thymeleaf-005F0F?style=for-the-badge&logo=thymeleaf&logoColor=white">
 
@@ -97,6 +98,7 @@
     - 🤖 SsamMuBot(2025): Kotlin, Spring Boot, Redis, OCI, Nginx, Docker, Jenkins
     - 👩‍🏫 MukhoLab(2025): JavaScript, Express, HTML, CSS, OCI, Nginx, Docker, Jenkins
     - 🖼️ Mukho Gallery(2025): TypeScript, Next.js, Koltin, Spring Boot, JPA, MySQL, ~~OCI, Nginx, Docker, Jenkins~~
+    - 📃 SsamMuBot-Web(2025): TypeScript, Vue.js, OCI, Nginx
    
   </div>
 </details>
