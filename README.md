@@ -5,7 +5,8 @@
 - ❄️ Developer
   - ⌨️ Software Engineer(2023)
   - 👩‍🏫 Instructor(2025)
-- 🏪 Main Skill: **`Spring`**(Java), **``React``**(TypeScript)
+- 🏪 Main Skill
+  <br><img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=Spring%20Boot&logoColor=white"> <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black">
 - ⚽ Goals
   - Develop "user-friendly" and "bug-free" services
 - 👩‍🎨 Strength: Algorithm, Consistent, Diversity
@@ -41,7 +42,7 @@
   ### 📦 Backend
   
   <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=Spring%20Boot&logoColor=white"> <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=%2361DAFB"> <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=%2361DAFB"> <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=%2361DAFB"><br>
-  <img src="https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white"> <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white">
+  <img src="https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white">
 
   ### 💾 Database
 
@@ -73,7 +74,7 @@
   
   ### 🖱️ etc
   
-  <img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white"> <img src="https://img.shields.io/badge/Bitbucket-0052CC?style=for-the-badge&logo=Bitbucket&logoColor=white"> <img src="https://img.shields.io/badge/Gitlab-FC6D26?style=for-the-badge&logo=Gitlab&logoColor=white"> <img src="https://img.shields.io/badge/Sourcetree-0052CC?style=for-the-badge&logo=Sourcetree&logoColor=white"><br>
+  <img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white"> <img src="https://img.shields.io/badge/Bitbucket-0052CC?style=for-the-badge&logo=Bitbucket&logoColor=white"> <img src="https://img.shields.io/badge/Gitlab-FC6D26?style=for-the-badge&logo=Gitlab&logoColor=white"> <img src="https://img.shields.io/badge/Sourcetree-0052CC?style=for-the-badge&logo=Sourcetree&logoColor=white"> <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white"><br>
   <img src="https://img.shields.io/badge/chat%20gpt-000000?style=for-the-badge&logo=chatgpt&logoColor=white"> <img src="https://img.shields.io/badge/perplexity-1FB8CD?style=for-the-badge&logo=perplexity&logoColor=white"> <img src="https://img.shields.io/badge/google%20gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white"><br> 
   <img src="https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=Google%20Drive&logoColor=white"> <img src="https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white"> <img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=Microsoft%20Excel&logoColor=white"> <img src="https://img.shields.io/badge/Microsoft%20Access-A4373A?style=for-the-badge&logo=Microsoft%20Access&logoColor=white"><br>
   <img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=Notion&logoColor=white"> <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"> <img src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=for-the-badge&logo=adobepremierepro&logoColor=white">
