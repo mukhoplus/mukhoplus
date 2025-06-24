@@ -19,7 +19,8 @@
   - 🍁 SsamMuTalk(2024): TypeScript, Nest.js, React, MySQL, TypeORM, MongoDB Atlas, OCI, Nginx, Docker, Jenkins
   - ❓ **Question Bank(2024)**: Python, Tkinter
   - 📱 **Underworld LINE Pro(2025)**: Java, Spring Boot, TypeScript, React, MySQL, MyBatis, OCI, Nginx, Docker, Jenkins
-  - 📃 SsamMuBot-Web(2025): TypeScript, Vue.js, OCI, Nginx, Docker, Jenkins
+  - 🤖 SsamMuBot(2025): Kotlin, Spring Boot, Redis, OCI, Nginx, Docker, Jenkins
+  - 📃 SsamMuBot-Web(2025): TypeScript, Vue.js, OCI, Nginx
 - ✨ Activities and Awards
   - 🥉 2022 Kyung Hee University Spring Programming Contest(2022, **`Participation Prize`**)
   - 🏃 NAVER Connect Foundation boostcamp web·mobile 7th(2022, Challenge)
@@ -96,7 +97,6 @@
     - 🚆 Oh-My-Last-Transit(2024): TypeScript, React Native, JavaScript, Express
     - ☔ Oh My Umbrella(2024, Prototype): Java, Spring Boot, TypeScript, React Native, MySQL, JPA, OCI, Docker, Jenkins
     - 📚 EduBox(2024, Pause): [FE] TypeScript, React
-    - 🤖 SsamMuBot(2025): Kotlin, Spring Boot, Redis, OCI, Nginx, Docker, Jenkins
     - 👩‍🏫 MukhoLab(2025): JavaScript, Express, HTML, CSS, OCI, Nginx, Docker, Jenkins
     - 🖼️ Mukho Gallery(2025): TypeScript, Next.js, Koltin, Spring Boot, JPA, MySQL, ~~OCI, Nginx, Docker, Jenkins~~
    
