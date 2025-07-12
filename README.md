@@ -20,7 +20,6 @@
   - ❓ **Question Bank(2024)**: Python, Tkinter
   - 📱 **Underworld LINE Pro(2025)**: Java, Spring Boot, TypeScript, React, MySQL, MyBatis, OCI, Nginx, Docker, Jenkins
   - 🤖 **SsamMuBot(Web)(2025)**: Kotlin, Spring Boot, Redis, TypeScript, Vue.js, OCI, Nginx, Docker, Jenkins
-  - 🗺️ Mootprint(2025): Kotlin, Spring Boot, MySQL, JPA, Android, OCI, Nginx, Docker, Jenkins
 - ✨ Activities and Awards
   - 🥉 2022 Kyung Hee University Spring Programming Contest(2022, **`Participation Prize`**)
   - 🏃 NAVER Connect Foundation boostcamp web·mobile 7th(2022, Challenge)
@@ -99,6 +98,7 @@
     - 📚 EduBox(2024, Pause): [FE] TypeScript, React
     - 👩‍🏫 MukhoLab(2025): JavaScript, Express, HTML, CSS, OCI, Nginx, Docker, Jenkins
     - 🖼️ Mukho Gallery(2025): TypeScript, Next.js, Koltin, Spring Boot, JPA, MySQL, ~~OCI, Nginx, Docker, Jenkins~~
+    - 🗺️ Mootprint(2025): Kotlin, Spring Boot, MySQL, JPA, Android, OCI, Nginx, Docker, Jenkins
    
   </div>
 </details>
