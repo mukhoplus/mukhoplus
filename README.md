@@ -99,7 +99,7 @@
     - 📚 EduBox(2024, Pause): [FE] TypeScript, React
     - 👩‍🏫 MukhoLab(2025): JavaScript, Express, HTML, CSS, OCI, Nginx, Docker, Jenkins
     - 🖼️ Mukho Gallery(2025): TypeScript, Next.js, Koltin, Spring Boot, JPA, MySQL, ~~OCI, Nginx, Docker, Jenkins~~
-    - 🔨 BFF-Sandbox(2025): JavaScript, Koa.js, Python, Django, TinyDB, Ruby, Ruby on Rails, Go, Gin
+    - 🔨 BFF-Sandbox(2025): JavaScript, Koa.js, Python, Django, TinyDB, Ruby on Rails, Go, Gin
    
   </div>
 </details>
