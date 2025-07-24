@@ -19,7 +19,7 @@
   - 🍁 SsamMuTalk(2024): TypeScript, Nest.js, React, MySQL, TypeORM, MongoDB Atlas, OCI, Nginx, Docker, Jenkins
   - ❓ **Question Bank(2024)**: Python, Tkinter
   - 📱 **Underworld LINE Pro(2025)**: Java, Spring Boot, TypeScript, React, MySQL, MyBatis, OCI, Nginx, Docker, Jenkins
-  - 🤖 **SsamMuBot(Web)(2025)**: Kotlin, Spring Boot, Redis, TypeScript, Vue.js, OCI, Nginx, Docker, Jenkins
+  - 🤖 **SsamMuBot(2025)**: Kotlin, Spring Boot, Redis, TypeScript, Vue.js, OCI, Nginx, Docker, Jenkins
   - 🗺️ Mootprint(2025): Kotlin, Android, Spring Boot, MySQL, JPA, TypeScript, Next.js, OCI, Nginx, Docker, Jenkins
 - ✨ Activities and Awards
   - 🥉 2022 Kyung Hee University Spring Programming Contest(2022, **`Participation Prize`**)
@@ -38,12 +38,11 @@
   
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"> <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"><br>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white"> <img src="https://img.shields.io/badge/kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"><br>
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white"> <img src="https://img.shields.io/badge/VBA-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white">
+  <img src="https://img.shields.io/badge/VBA-D83B01?style=for-the-badge&logo=vba&logoColor=white">
   
   ### 📦 Backend
   
-  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=Spring%20Boot&logoColor=white"> <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=%2361DAFB"> <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=%2361DAFB"> <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=%2361DAFB"> <img src="https://img.shields.io/badge/Koa-FFFFFF?style=for-the-badge&logo=koa&logoColor=%2333333D"><br>
-  <img src="https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white">
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=%2361DAFB"> <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=%2361DAFB"> <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=%2361DAFB"> <img src="https://img.shields.io/badge/Koa-FFFFFF?style=for-the-badge&logo=koa&logoColor=%2333333D">
 
   ### 🕸️ Frontend
   
@@ -55,30 +54,22 @@
 
   <img src="https://img.shields.io/badge/React%20Native-61DAFB?style=for-the-badge&logo=react&logoColor=white"> <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=Android&logoColor=white">
 
-### 💾 Database
+  ### 💾 Database
 
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"> <img src="https://img.shields.io/badge/Oracle%20DB-F80000?style=for-the-badge&logo=Oracle&logoColor=white"> <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=MariaDB&logoColor=white"> <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"><br>
+  <img src="https://img.shields.io/badge/Oracle%20DB-F80000?style=for-the-badge&logo=Oracle&logoColor=white"> <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=MariaDB&logoColor=white"> <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white">
   
   ### ☁️ Cloud & DevOps
   
   <img src="https://img.shields.io/badge/Oracle%20Cloud-F80000?style=for-the-badge&logo=Oracle&logoColor=white"> <img src="https://img.shields.io/badge/Google%20Cloud-2088FF?style=for-the-badge&logo=googlecloud&logoColor=white"> <img src="https://img.shields.io/badge/Amazon%20AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"><br>
   <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white"> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"> <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white"> <img src="https://img.shields.io/badge/Github%20Actions-4285F4?style=for-the-badge&logo=githubactions&logoColor=white">
   
-  ### 🧰 IDE
-  
-  <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white"> <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellij%20idea&logoColor=white"> <img src="https://img.shields.io/badge/Cursor%20IDE-000000?style=for-the-badge&logo=cursor&logoColor=white"><br>
-  <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=Visual%20Studio&logoColor=white"> <img src="https://img.shields.io/badge/Eclipse%20IDE-2C2255?style=for-the-badge&logo=eclipse-ide&logoColor=white"> <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white"> <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white">
-  
-  ### 🖥️ OS
-  
-  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=Windows&logoColor=white"> <img src="https://img.shields.io/badge/Mac%20OS-000000?style=for-the-badge&logo=macOS&logoColor=white"> <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"> <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=Android&logoColor=white"> <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=white"> 
-  
   ### 🖱️ etc
   
   <img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white"> <img src="https://img.shields.io/badge/Bitbucket-0052CC?style=for-the-badge&logo=Bitbucket&logoColor=white"> <img src="https://img.shields.io/badge/Gitlab-FC6D26?style=for-the-badge&logo=Gitlab&logoColor=white"> <img src="https://img.shields.io/badge/Sourcetree-0052CC?style=for-the-badge&logo=Sourcetree&logoColor=white"> <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white"><br>
-  <img src="https://img.shields.io/badge/Github%20Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white"> <img src="https://img.shields.io/badge/chat%20gpt-000000?style=for-the-badge&logo=chatgpt&logoColor=white"> <img src="https://img.shields.io/badge/perplexity-1FB8CD?style=for-the-badge&logo=perplexity&logoColor=white"> <img src="https://img.shields.io/badge/google%20gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white"><br> 
-  <img src="https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=Google%20Drive&logoColor=white"> <img src="https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white"> <img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=Microsoft%20Excel&logoColor=white"> <img src="https://img.shields.io/badge/Microsoft%20Access-A4373A?style=for-the-badge&logo=Microsoft%20Access&logoColor=white"><br>
-  <img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=Notion&logoColor=white"> <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"> <img src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=for-the-badge&logo=adobepremierepro&logoColor=white">
+  <img src="https://img.shields.io/badge/Cursor%20IDE-000000?style=for-the-badge&logo=cursor&logoColor=white"> <img src="https://img.shields.io/badge/Github%20Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white"> <img src="https://img.shields.io/badge/chat%20gpt-000000?style=for-the-badge&logo=chatgpt&logoColor=white"> <img src="https://img.shields.io/badge/perplexity-1FB8CD?style=for-the-badge&logo=perplexity&logoColor=white"> <img src="https://img.shields.io/badge/google%20gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white"><br> 
+  <img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=Microsoft%20Excel&logoColor=white"> <img src="https://img.shields.io/badge/Microsoft%20Access-A4373A?style=for-the-badge&logo=Microsoft%20Access&logoColor=white"><br>
+  <img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=Notion&logoColor=white"> <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white">
 
   ### 🙏 Thanks to
   
@@ -95,7 +86,6 @@
     - 🍭 MukhoGG(2024): Java, Spring Boot, Thymeleaf
     - 🚆 Oh-My-Last-Transit(2024): TypeScript, React Native, JavaScript, Express
     - ☔ Oh My Umbrella(2024, Prototype): Java, Spring Boot, TypeScript, React Native, MySQL, JPA, OCI, Docker, Jenkins
-    - 📚 EduBox(2024, Pause): [FE] TypeScript, React
     - 👩‍🏫 MukhoLab(2025): JavaScript, Express, HTML, CSS, OCI, Nginx, Docker, Jenkins
     - 🖼️ Mukho Gallery(2025): TypeScript, Next.js, Koltin, Spring Boot, JPA, MySQL, ~~OCI, Nginx, Docker, Jenkins~~
     - 🔨 BFF-Sandbox(2025): JavaScript, Koa.js, Python, Django, TinyDB, Ruby on Rails, Go, Gin
