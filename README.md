@@ -5,26 +5,35 @@
 - ❄️ Developer
   - ⌨️ Software Engineer(2023)
   - 👩‍🏫 Instructor(2025)
-- 🏪 Main Skill
-  <br><img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=Spring%20Boot&logoColor=white"> <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black">
+- 🌱 Kyung Hee University - Computer Science and Engineering(2016 ~ 2023)
 - ⚽ Goals
   - Develop "user-friendly" and "bug-free" services
 - 👩‍🎨 Strength: Algorithm, Consistent, Diversity
-- 🌱 Kyung Hee University - Computer Science and Engineering(2016 ~ 2023)
-- 👻 Primary Projects
-  - 📞 **Reservation Date Calculator(2020)**: Python, PyQt5
-  - 🏭 **ESPers Starcraft Ranking System(2022)**: Java, Spring Boot, JavaScript, React, MySQL, JPA, OCI(GCP), Nginx
-  - 🏦 **Bank Challenger(2023)**: Java, Spring Boot, JavaScript, React, MySQL, JPA
-  - 📗 **Underworld LINE+(Mobile)(2023)**: Java, Spring Boot, JavaScript, React, React Native, MySQL, MyBatis, OCI, Nginx
-  - 🍁 SsamMuTalk(2024): TypeScript, Nest.js, React, MySQL, TypeORM, MongoDB Atlas, OCI, Nginx, Docker, Jenkins
-  - ❓ **Question Bank(2024)**: Python, Tkinter
-  - 📱 **Underworld LINE Pro(2025)**: Java, Spring Boot, TypeScript, React, MySQL, MyBatis, OCI, Nginx, Docker, Jenkins
-  - 🤖 **SsamMuBot(2025)**: Kotlin, Spring Boot, Redis, TypeScript, Vue.js, OCI, Nginx, Docker, Jenkins
-  - 🗺️ Mootprint(2025): Kotlin, Android, Spring Boot, MySQL, JPA, TypeScript, Next.js, OCI, Nginx, Docker, Jenkins
-- ✨ Activities and Awards
-  - 🥉 2022 Kyung Hee University Spring Programming Contest(2022, **`Participation Prize`**)
-  - 🏃 NAVER Connect Foundation boostcamp web·mobile 7th(2022, Challenge)
-  - 💰 KB Kookmin Bank IT Academy IT's Your Life 3th(2023)
+
+### 🏪 Main Skill
+
+<img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=Spring%20Boot&logoColor=white"> <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black">
+
+### 👻 Primary Projects
+
+- 📞 **Reservation Date Calculator(2020)**: Python, PyQt5
+- 🏭 **ESPers Starcraft Ranking System(2022)**: Java, Spring Boot, JavaScript, React, MySQL, JPA, OCI(GCP), Nginx
+- 🏦 **Bank Challenger(2023)**: Java, Spring Boot, JavaScript, React, MySQL, JPA
+- 📗 **Underworld LINE+(Mobile)(2023)**: Java, Spring Boot, JavaScript, React, React Native, MySQL, MyBatis, OCI, Nginx
+- ❓ **Question Bank(2024)**: Python, Tkinter
+- 📱 **Underworld LINE Pro(2025)**: Java, Spring Boot, TypeScript, React, MySQL, MyBatis, OCI, Nginx, Docker, Jenkins
+- 🤖 **SsamMuBot(2025)**: Kotlin, Spring Boot, Redis, TypeScript, Vue.js, OCI, Nginx, Docker, Jenkins
+- 🗺️ Mootprint(2025): Kotlin, Android, Spring Boot, MySQL, JPA, TypeScript, Next.js, OCI, Nginx, Docker, Jenkins
+
+### ✨ Activities and Awards
+
+- 🥉 2022 Kyung Hee University Spring Programming Contest(2022, **`Participation Prize`**)
+- 🏃 NAVER Connect Foundation boostcamp web·mobile 7th(2022, Challenge)
+- 💰 KB Kookmin Bank IT Academy IT's Your Life 3th(2023)
+
+---
+
+![Mukho's GitHub stats](https://github-readme-stats.vercel.app/api?username=mukhoplus&show_icons=true&theme=react)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mukhoplus&layout=compact&theme=nightowl&langs_count=6&hide=html,css,makefile,tex,scss,ejs,jupyter%20notebook)
 
 ---
 <details>
@@ -83,6 +92,7 @@
     - ⏰ Mlock(2024): JavaScript, React, Github Pages
     - 📋 Mukho Mini Gallery(2024): Java, Spring Boot, MySQL, JPA, OCI, Nginx
     - 🥅 PungDeong(2024): Dart, Flutter
+    - 🍁 SsamMuTalk(2024): TypeScript, Nest.js, React, MySQL, TypeORM, MongoDB Atlas, OCI, Nginx, Docker, Jenkins
     - 🍭 MukhoGG(2024): Java, Spring Boot, Thymeleaf
     - 🚆 Oh-My-Last-Transit(2024): TypeScript, React Native, JavaScript, Express
     - ☔ Oh My Umbrella(2024, Prototype): Java, Spring Boot, TypeScript, React Native, MySQL, JPA, OCI, Docker, Jenkins
@@ -92,7 +102,3 @@
    
   </div>
 </details>
-
----
-
-![Mukho's GitHub stats](https://github-readme-stats.vercel.app/api?username=mukhoplus&show_icons=true&theme=react)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mukhoplus&layout=compact&theme=nightowl&langs_count=6&hide=html,css,makefile,tex,scss,ejs,jupyter%20notebook)
