@@ -86,6 +86,17 @@
   
   <img src="https://img.shields.io/badge/Naver-03C75A?style=for-the-badge&logo=naver&logoColor=white"> <img src="https://img.shields.io/badge/LG-A50034?style=for-the-badge&logo=lg&logoColor=white">
 
+  ### 🟢 Live Service
+  [![철벽레스텔 예약일자 계산기](https://github-readme-stats.vercel.app/api/pin/?username=mukhoplus&repo=Reservation-Date-Calculator)](https://github.com/mukhoplus/Reservation-Date-Calculator)
+  
+  [![쌈무봇](https://github-readme-stats.vercel.app/api/pin/?username=mukhoplus&repo=ssammubot-web&theme=vue-dark)](https://github.com/mukhoplus/ssammubot-web) [![잠재능력 시뮬레이터](https://github-readme-stats.vercel.app/api/pin/?username=mukhoplus&repo=Potential-Simulator&theme=kacho_ga)](https://github.com/mukhoplus/Potential-Simulator)
+
+  [![Made By Mukho](https://github-readme-stats.vercel.app/api/pin/?username=Made-By-Mukho&repo=made-by-mukho.github.io&theme=midnight-purple)](https://github.com/Made-By-Mukho/made-by-mukho.github.io) [![MootPrint](https://github-readme-stats.vercel.app/api/pin/?username=mukhoplus&repo=MootPrint-Archive&theme=chartreuse-dark)](https://github.com/mukhoplus/MootPrint-Archive)
+  
+  [![에스퍼즈 스타크래프트 랭킹 시스템](https://github-readme-stats.vercel.app/api/pin/?username=mukhoplus&repo=rank-system&theme=shades-of-purple)](https://github.com/mukhoplus/rank-system) [![언더월드 라인 프로](https://github-readme-stats.vercel.app/api/pin/?username=mukhoplus&repo=Underworld-LINE-Pro&theme=merko)](https://github.com/mukhoplus/Underworld-LINE-Pro)
+
+  ---
+  
   - 👻 Projects
     - 👩‍🎤 Singer-Composer(2021): JavaScript, Express, MySQL, AWS
     - 💻 Underworld-LINE(2022): JavaScript, Node.js, GCP
@@ -101,14 +112,5 @@
     - 👩‍🏫 MukhoLab(2025): JavaScript, Express, HTML, CSS, OCI, Nginx, Docker, Jenkins
     - 🖼️ Mukho Gallery(2025): TypeScript, Next.js, Koltin, Spring Boot, JPA, MySQL, ~~OCI, Nginx, Docker, Jenkins~~
     - 🔨 BFF-Sandbox(2025): JavaScript, Koa.js, Python, Django, TinyDB, Ruby on Rails, Go, Gin
-
-  ---
-  ### Production
-  [![철벽레스텔 예약일자 계산기](https://github-readme-stats.vercel.app/api/pin/?username=mukhoplus&repo=Reservation-Date-Calculator)](https://github.com/mukhoplus/Reservation-Date-Calculator) [![쌈무봇](https://github-readme-stats.vercel.app/api/pin/?username=mukhoplus&repo=ssammubot-web&theme=vue-dark)](https://github.com/mukhoplus/ssammubot-web) [![잠재능력 시뮬레이터](https://github-readme-stats.vercel.app/api/pin/?username=mukhoplus&repo=Potential-Simulator&theme=kacho_ga)](https://github.com/mukhoplus/Potential-Simulator)
-
-  ### Live
-  [![에스퍼즈 스타크래프트 랭킹 시스템](https://github-readme-stats.vercel.app/api/pin/?username=mukhoplus&repo=rank-system&theme=shades-of-purple)](https://github.com/mukhoplus/rank-system) [![언더월드 라인 프로](https://github-readme-stats.vercel.app/api/pin/?username=mukhoplus&repo=Underworld-LINE-Pro&theme=merko)](https://github.com/mukhoplus/Underworld-LINE-Pro)
-
-  [![Made By Mukho](https://github-readme-stats.vercel.app/api/pin/?username=Made-By-Mukho&repo=made-by-mukho.github.io&theme=midnight-purple)](https://github.com/Made-By-Mukho/made-by-mukho.github.io) [![MootPrint](https://github-readme-stats.vercel.app/api/pin/?username=mukhoplus&repo=MootPrint-Archive&theme=chartreuse-dark)](https://github.com/mukhoplus/MootPrint-Archive)
   </div>
 </details>
