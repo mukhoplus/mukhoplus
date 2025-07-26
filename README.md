@@ -34,7 +34,7 @@
 
 ---
 
-![Mukho's GitHub stats](https://github-readme-stats.vercel.app/api?username=mukhoplus&show_icons=true&theme=onedark&count_private=true)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mukhoplus&layout=compact&theme=onedark&langs_count=6&hide=html,css,makefile,tex,scss,ejs,jupyter%20notebook)
+![Mukho's GitHub stats](https://github-readme-stats.vercel.app/api?username=mukhoplus&show_icons=true&theme=github_dark&count_private=true)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mukhoplus&layout=compact&theme=github_dark&langs_count=6&hide=html,css,makefile,tex,scss,ejs,jupyter%20notebook)
 
 ---
 <details>
