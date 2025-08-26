@@ -22,8 +22,9 @@
 - 📗 **Underworld LINE+(Mobile)(2023)**: Java, Spring Boot, JavaScript, React, React Native, MySQL, MyBatis, OCI, Nginx
 - ❓ **Question Bank(2024)**: Python, Tkinter
 - 📱 **Underworld LINE Pro(2025)**: Java, Spring Boot, TypeScript, React, MySQL, MyBatis, OCI, Nginx, Docker, Jenkins
-- 🤖 **SsamMuBot(2025)**: Kotlin, Spring Boot, Redis, TypeScript, Vue.js, OCI, Nginx, Docker, Jenkins
+- 🤖 **SsamMuBot(2025)**: Kotlin, Spring Boot, Redis, TypeScript, Vue.js, OCI, Nginx, Docker, Jenkins, Vercel
 - 🗺️ Mootprint(2025): Kotlin, Android, Spring Boot, MySQL, JPA, TypeScript, Next.js, OCI, Nginx, Docker, Jenkins
+- 🌠 **Masked StarCraft(2025)**: Java, Spring Boot, MySQL, JPA, Railway, TypeScript, Next.js, Vercel
 
 ### ✨ Activities and Awards
 
