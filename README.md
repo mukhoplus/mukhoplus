@@ -89,7 +89,7 @@
   ### 🟢 Live Service
   [![철벽레스텔 예약일자 계산기](https://github-readme-stats.vercel.app/api/pin/?username=mukhoplus&repo=Reservation-Date-Calculator)](https://github.com/mukhoplus/Reservation-Date-Calculator) [![쌈무봇](https://github-readme-stats.vercel.app/api/pin/?username=mukhoplus&repo=ssammubot-web&theme=vue-dark)](https://github.com/mukhoplus/ssammubot-web)
 
-  [![Made By Mukho](https://github-readme-stats.vercel.app/api/pin/?username=Made-By-Mukho&repo=made-by-mukho.github.io&theme=midnight-purple)](https://github.com/Made-By-Mukho/made-by-mukho.github.io) [![MootPrint](https://github-readme-stats.vercel.app/api/pin/?username=mukhoplus&repo=MootPrint-Archive&theme=chartreuse-dark)](https://github.com/mukhoplus/MootPrint-Archive)
+  [![Made By Mukho](https://github-readme-stats.vercel.app/api/pin/?username=Made-By-Mukho&repo=made-by-mukho.github.io&theme=midnight-purple)](https://github.com/Made-By-Mukho/made-by-mukho.github.io)
   
   [![에스퍼즈 스타크래프트 랭킹 시스템](https://github-readme-stats.vercel.app/api/pin/?username=mukhoplus&repo=rank-system&theme=shades-of-purple)](https://github.com/mukhoplus/rank-system) [![언더월드 라인 프로](https://github-readme-stats.vercel.app/api/pin/?username=mukhoplus&repo=Underworld-LINE-Pro&theme=merko)](https://github.com/mukhoplus/Underworld-LINE-Pro)
 
