@@ -23,6 +23,7 @@
 - ❓ **Question Bank(2024)**: Python, Tkinter
 - 📱 **Underworld LINE Pro(2025)**: Java, Spring Boot, TypeScript, React, MySQL, MyBatis, OCI, Nginx, Docker, Jenkins
 - 🤖 **SsamMuBot(2025)**: Kotlin, Spring Boot, Redis, TypeScript, Vue.js, OCI, Nginx, Docker, Jenkins, Vercel
+- 🥘 **MeoMeokNo(2025)**: Java, Android, TypeScript, React, Vercel
 
 ### ✨ Activities and Awards
 
