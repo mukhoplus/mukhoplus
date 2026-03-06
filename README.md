@@ -87,15 +87,6 @@
   <img src="https://img.shields.io/badge/Naver-03C75A?style=for-the-badge&logo=naver&logoColor=white"> <img src="https://img.shields.io/badge/LG-A50034?style=for-the-badge&logo=lg&logoColor=white"><br>
   <img src="https://img.shields.io/badge/SSG.COM-black?style=for-the-badge&logo=ssgcom&logoColor=white">
 
-  ### 🟢 Live Service
-  [![철벽레스텔 예약일자 계산기](https://github-readme-stats.vercel.app/api/pin/?username=mukhoplus&repo=Reservation-Date-Calculator)](https://github.com/mukhoplus/Reservation-Date-Calculator) [![쌈무봇](https://github-readme-stats.vercel.app/api/pin/?username=mukhoplus&repo=ssammubot-web&theme=vue-dark)](https://github.com/mukhoplus/ssammubot-web)
-
-  [![Made By Mukho](https://github-readme-stats.vercel.app/api/pin/?username=Made-By-Mukho&repo=made-by-mukho.github.io&theme=midnight-purple)](https://github.com/Made-By-Mukho/made-by-mukho.github.io)
-  
-  [![에스퍼즈 스타크래프트 랭킹 시스템](https://github-readme-stats.vercel.app/api/pin/?username=mukhoplus&repo=rank-system&theme=shades-of-purple)](https://github.com/mukhoplus/rank-system) [![언더월드 라인 프로](https://github-readme-stats.vercel.app/api/pin/?username=mukhoplus&repo=Underworld-LINE-Pro&theme=merko)](https://github.com/mukhoplus/Underworld-LINE-Pro)
-
-  [![MootPrint](https://github-readme-stats.vercel.app/api/pin/?username=mukhoplus&repo=MootPrint-Archive&theme=material-palenight)](https://github.com/mukhoplus/MootPrint-Archive) [![뭐먹노](https://github-readme-stats.vercel.app/api/pin/?username=mukhoplus&repo=meomeokno&theme=calm)](https://github.com/mukhoplus/meomeokno)
-
   ---
   
   - 👻 Projects
@@ -116,6 +107,6 @@
     - 🍀 Potential Simulator(2025): TypeScript, React Native, Vercel
     - 🗺️ Mootprint(2025): Kotlin, Android, Spring Boot, MySQL, JPA, TypeScript, Next.js, OCI, Nginx, Docker, Jenkins
     - 🌠 Masked StarCraft(2025): Java, Spring Boot, MySQL, JPA, Railway, TypeScript, Next.js, Vercel
-    - 🧠 Muktbook(2026): TypeScript, Next.js, PostgreSQL, Vercel
+    - 🧠 Muktbook(2026): TypeScript, Next.js, PostgreSQL, Vercel, Google Gemini API
   </div>
 </details>
