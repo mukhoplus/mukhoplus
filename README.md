@@ -116,5 +116,6 @@
     - 🍀 Potential Simulator(2025): TypeScript, React Native, Vercel
     - 🗺️ Mootprint(2025): Kotlin, Android, Spring Boot, MySQL, JPA, TypeScript, Next.js, OCI, Nginx, Docker, Jenkins
     - 🌠 Masked StarCraft(2025): Java, Spring Boot, MySQL, JPA, Railway, TypeScript, Next.js, Vercel
+    - 🧠 Muktbook(2026): TypeScript, Next.js, PostgreSQL, Vercel
   </div>
 </details>
