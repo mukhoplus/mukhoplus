@@ -5,6 +5,7 @@
 - ❄️ Developer
   - ⌨️ Software Engineer(2023)
   - 👩‍🏫 Instructor(2025)
+  - 
 - 🌱 Kyung Hee University - Computer Science and Engineering(2016 ~ 2023)
 - ⚽ Goals
   - Develop "user-friendly" and "bug-free" services
@@ -105,7 +106,7 @@
     - 🖼️ Mukho Gallery(2025): TypeScript, Next.js, Koltin, Spring Boot, JPA, MySQL, ~~OCI, Nginx, Docker, Jenkins~~
     - 🔨 BFF-Sandbox(2025): JavaScript, Koa.js, Python, Django, TinyDB, Ruby on Rails, Go, Gin
     - 🍀 Potential Simulator(2025): TypeScript, React Native, Vercel
-    - 🗺️ Mootprint(2025): Kotlin, Android, Spring Boot, MySQL, JPA, TypeScript, Next.js, OCI, Nginx, Docker, Jenkins
+    - 🗺️ **Mootprint(2025)**: Kotlin, Android, Spring Boot, MySQL, JPA, TypeScript, Next.js, OCI, Nginx, Docker, Jenkins
     - 🌠 Masked StarCraft(2025): Java, Spring Boot, MySQL, JPA, Railway, TypeScript, Next.js, Vercel
     - 🧠 Muktbook(2026): TypeScript, Next.js, PostgreSQL, Vercel, Google Gemini API
     - 🥤 Cafficiency(2026): TypeScript, React Native, Vercel
