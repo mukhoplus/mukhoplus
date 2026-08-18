@@ -24,7 +24,7 @@
 - ❓ **Question Bank(2024)**: Python, Tkinter
 - 📱 **Underworld LINE Pro(2025)**: Java, Spring Boot, TypeScript, React, MySQL, MyBatis, OCI, Nginx, Docker, Jenkins
 - 🤖 **SsamMuBot(2025)**: Kotlin, Spring Boot, Redis, TypeScript, Vue.js, OCI, Nginx, Docker, Jenkins, Vercel
-- 🥘 **MeoMeokNo(2025)**: Java, Android, TypeScript, React, Vercel
+- 🥘 **MeoMeokNo(2025)**: Java, Sprint Boot, MySQL, Kotlin, Android, TypeScript, React, OCI, Vercel
 - 🥇 **Coming Soon(2026)**
 
 ### ✨ Activities and Awards
@@ -35,7 +35,7 @@
 
 ---
 
-![Mukho's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=mukhoplus&show_icons=true&theme=github_dark&count_private=true)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=mukhoplus&layout=compact&theme=github_dark&langs_count=6&hide=html,css,makefile,tex,scss,ejs,jupyter%20notebook)
+![Mukho's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=mukhoplus&show_icons=true&theme=github_dark&count_private=true)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![Top Langs](https://github-readme-stats-custom-zeta.vercel.app/api/top-langs/?username=mukhoplus&layout=compact&theme=github_dark&langs_count=6&count_private=true&&hide=html,css,makefile,tex,scss,ejs,jupyter%20notebook)
 
 ---
 <details>
