@@ -25,7 +25,7 @@
 - 📱 **Underworld LINE Pro(2025)**: Java, Spring Boot, TypeScript, React, MySQL, MyBatis, OCI, Nginx, Docker, Jenkins
 - 🤖 **SsamMuBot(2025)**: Kotlin, Spring Boot, Redis, TypeScript, Vue.js, OCI, Nginx, Docker, Jenkins, Vercel
 - 🥇 **Mukho Gallery(2026)**: TypeScript, Next.js, Supabase, Vercel
-- 👩‍💼 **ESPers Portal(2026, ~ing)**: Java, Spring Boot, MySQL, JPA, TypeScript, React, Vercel, OCI, Nginx, Jenkins
+- 👩‍💼 **ESPers Portal(2026, ~ing)**: TypeScript, Next.js, Prisma ORM, Vercel, OCI, MySQL
 
 ### ✨ Activities and Awards
 
