@@ -112,5 +112,6 @@
     - 🥘 **MeoMeokNo(2025)**: Java, Sprint Boot, MySQL, Kotlin, Android, TypeScript, React, OCI, Vercel
     - 🧠 Muktbook(2026): TypeScript, Next.js, PostgreSQL, Vercel, Google Gemini API
     - 🥤 Cafficiency(2026): TypeScript, React Native, Vercel
+    - 🛺 mukho-harness(2026)
   </div>
 </details>
