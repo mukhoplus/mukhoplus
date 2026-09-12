@@ -112,6 +112,6 @@
     - 🧠 Muktbook(2026): TypeScript, Next.js, PostgreSQL, Vercel, Google Gemini API
     - 🥤 Cafficiency(2026): TypeScript, React Native, Vercel
     - 👩‍💼 **ESPers Portal(2026)**: TypeScript, Next.js, React, Prisma ORM, Vercel, OCI, MySQL
-    - 🛺 **Mukho-Harness(2026)**: Python, Shell, Antigravity CLI(agy)
+    - 🛺 Mukho-Harness(2026): Python, Shell, Antigravity CLI(agy)
   </div>
 </details>
