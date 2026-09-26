@@ -113,5 +113,6 @@
     - 🥤 Cafficiency(2026): TypeScript, React Native, Vercel
     - 👩‍💼 **ESPers Portal(2026)**: TypeScript, Next.js, React, Prisma ORM, Vercel, OCI, MySQL
     - 🛺 Mukho-Harness(2026): Python, Shell, Antigravity CLI(agy)
+    - 🟢 MukPlay(2026): Java, Spring Boot, MySQL, JPA, TypeScript, React, OCI, Nginx, Jenkins, Vercel
   </div>
 </details>
