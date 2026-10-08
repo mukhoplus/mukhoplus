@@ -19,7 +19,7 @@
 
 - 📞 **Reservation Date Calculator(2020)**: Python, PyQt5
 - 🏭 **ESPers Starcraft Ranking System(2022)**: Java, Spring Boot, JavaScript, React, MySQL, JPA, OCI(GCP), Nginx
-- 🏦 **Bank Challenger(2023)**: Java, Spring Boot, JavaScript, React, MySQL, JPA
+- 🏦 **Bank Challenger(2023, TL)**: Java, Spring Boot, JavaScript, React, MySQL, JPA
 - 📗 **Underworld LINE+(Mobile)(2023)**: Java, Spring Boot, JavaScript, React, React Native, MySQL, MyBatis, OCI, Nginx
 - ❓ **Question Bank(2024)**: Python, Tkinter
 - 🤳 **Made By Mukho(2024)**: TypeScript, React
@@ -27,6 +27,7 @@
 - 🤖 **SsamMuBot(2025)**: Kotlin, Spring Boot, Redis, TypeScript, Vue.js, OCI, Nginx, Docker, Jenkins, Vercel
 - 🗺️ **Mootprint(2025)**: Kotlin, Android, Spring Boot, MySQL, JPA, TypeScript, Next.js, OCI, Nginx, Docker, Jenkins
 - 🥇 **Mukho Gallery(2026)**: TypeScript, Next.js, Supabase, Vercel
+- 🌨️ Comming Soon(2026, PO/FE): TypeScript, React, Vercel / Python, LLM, etc.
 
 ### ✨ Activities and Awards
 
@@ -68,14 +69,14 @@
 
   ### 💾 Database
 
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"><br>
-  <img src="https://img.shields.io/badge/Oracle%20DB-F80000?style=for-the-badge&logo=Oracle&logoColor=white"> <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=MariaDB&logoColor=white"> <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"> <img src="https://img.shields.io/badge/Oracle%20DB-F80000?style=for-the-badge&logo=Oracle&logoColor=white"><br>
+  <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=MariaDB&logoColor=white"> <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white">
   
   ### ☁️ Cloud & DevOps
   
-  <img src="https://img.shields.io/badge/Oracle%20Cloud-F80000?style=for-the-badge&logo=Oracle&logoColor=white"> <img src="https://img.shields.io/badge/Google%20Cloud-2088FF?style=for-the-badge&logo=googlecloud&logoColor=white"> <img src="https://img.shields.io/badge/Amazon%20AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"><br>
-  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white"> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"> <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white"> <img src="https://img.shields.io/badge/Github%20Actions-4285F4?style=for-the-badge&logo=githubactions&logoColor=white"><br>
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=Vercel&logoColor=white">
+  <img src="https://img.shields.io/badge/Oracle%20Cloud-F80000?style=for-the-badge&logo=Oracle&logoColor=white"> <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=Vercel&logoColor=white"><br>
+  <img src="https://img.shields.io/badge/Google%20Cloud-2088FF?style=for-the-badge&logo=googlecloud&logoColor=white"> <img src="https://img.shields.io/badge/Amazon%20AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"><br>
+  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white"> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"> <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white"> <img src="https://img.shields.io/badge/Github%20Actions-4285F4?style=for-the-badge&logo=githubactions&logoColor=white">
   
   ### 🖱️ etc
   
@@ -113,6 +114,6 @@
     - 🥤 Cafficiency(2026): TypeScript, React Native, Vercel
     - 👩‍💼 **ESPers Portal(2026)**: TypeScript, Next.js, React, Prisma ORM, Vercel, OCI, MySQL
     - 🛺 Mukho-Harness(2026): Python, Shell, Antigravity CLI(agy)
-    - 🟢 MukPlay(2026): Java, Spring Boot, MySQL, JPA, TypeScript, React, OCI, Nginx, Jenkins, Vercel
+    ~~- 🟢 MukPlay(2026): Java, Spring Boot, MySQL, JPA, TypeScript, React, OCI, Nginx, Jenkins, Vercel~~
   </div>
 </details>
