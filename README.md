@@ -54,7 +54,8 @@
   
   ### 📦 Backend
   
-  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=%2361DAFB"> <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=%2361DAFB"> <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=%2361DAFB"> <img src="https://img.shields.io/badge/Koa-FFFFFF?style=for-the-badge&logo=koa&logoColor=%2333333D">
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=%2361DAFB"><br>
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=%2361DAFB"> <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=%2361DAFB"> <img src="https://img.shields.io/badge/Koa-FFFFFF?style=for-the-badge&logo=koa&logoColor=%2333333D">
 
   ### 🕸️ Frontend
   
