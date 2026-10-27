@@ -27,7 +27,6 @@
 - 🤖 **SsamMuBot(2025)**: Kotlin, Spring Boot, Redis, TypeScript, Vue.js, OCI, Nginx, Docker, Jenkins, Vercel
 - 🗺️ **Mootprint(2025)**: Kotlin, Android, Spring Boot, MySQL, JPA, TypeScript, Next.js, OCI, Nginx, Docker, Jenkins
 - 🥇 **Mukho Gallery(2026)**: TypeScript, Next.js, Supabase, Vercel
-- 🌨️ Comming Soon(2026, PO/FE): TypeScript, React, Vercel / Python, LLM, etc.
 
 ### ✨ Activities and Awards
 
