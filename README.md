@@ -19,13 +19,13 @@
 
 - 📞 **Reservation Date Calculator(2020)**: Python, PyQt5
 - 🏭 **ESPers Starcraft Ranking System(2022)**: Java, Spring Boot, JavaScript, React, MySQL, JPA, OCI(GCP), Nginx
-- 🏦 **Bank Challenger(2023, TL)**: Java, Spring Boot, JavaScript, React, MySQL, JPA
-- 📗 **Underworld LINE+(Mobile)(2023)**: Java, Spring Boot, JavaScript, React, React Native, MySQL, MyBatis, OCI, Nginx
+- 🏦 Bank Challenger(2023, TL): Java, Spring Boot, JavaScript, React, MySQL, JPA
+- 📗 Underworld LINE+(Mobile)(2023): Java, Spring Boot, JavaScript, React, React Native, MySQL, MyBatis, OCI, Nginx
 - ❓ **Question Bank(2024)**: Python, Tkinter
 - 🤳 **Made By Mukho(2024)**: TypeScript, React
 - 📱 **Underworld LINE Pro(2025)**: Java, Spring Boot, TypeScript, React, MySQL, MyBatis, OCI, Nginx, Docker, Jenkins
-- 🤖 **SsamMuBot(2025)**: Kotlin, Spring Boot, Redis, TypeScript, Vue.js, OCI, Nginx, Docker, Jenkins, Vercel
-- 🗺️ **Mootprint(2025)**: Kotlin, Android, Spring Boot, MySQL, JPA, TypeScript, Next.js, OCI, Nginx, Docker, Jenkins
+- 🤖 **SsammuBot(2025)**: Kotlin, Spring Boot, Redis, TypeScript, Vue.js, OCI, Nginx, Docker, Jenkins, Vercel
+- 🗺️ **MootPrint(2025)**: Kotlin, Android, Spring Boot, MySQL, JPA, TypeScript, Next.js, OCI, Nginx, Docker, Jenkins
 - 🥇 **Mukho Gallery(2026)**: TypeScript, Next.js, Supabase, Vercel
 
 ### ✨ Activities and Awards
@@ -114,6 +114,5 @@
     - 🥤 Cafficiency(2026): TypeScript, React Native, Vercel
     - 👩‍💼 **ESPers Portal(2026)**: TypeScript, Next.js, React, Prisma ORM, Vercel, OCI, MySQL
     - 🛺 Mukho-Harness(2026): Python, Shell, Antigravity CLI(agy)
-    ~~- 🟢 MukPlay(2026): Java, Spring Boot, MySQL, JPA, TypeScript, React, OCI, Nginx, Jenkins, Vercel~~
   </div>
 </details>
