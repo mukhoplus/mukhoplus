@@ -6,6 +6,7 @@
   - ⌨️ Software Engineer(2023)
   - 👩‍🏫 Instructor(2025)
   - ⌨️ **Software Engineer(2026~)**
+  - 📴
 - 🌱 Kyung Hee University - Computer Science and Engineering(2016 ~ 2023)
 - ⚽ Goals
   - Develop "user-friendly" and "bug-free" services
@@ -65,7 +66,7 @@
 
   ### 🌕 Mobile
 
-  <img src="https://img.shields.io/badge/React%20Native-61DAFB?style=for-the-badge&logo=react&logoColor=white"> <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=Android&logoColor=white">
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=Android&logoColor=white"> <img src="https://img.shields.io/badge/React%20Native-61DAFB?style=for-the-badge&logo=react&logoColor=white">
 
   ### 💾 Database
 
