@@ -6,7 +6,7 @@
   - ⌨️ Software Engineer(2023)
   - 👩‍🏫 Instructor(2025)
   - ⌨️ **Software Engineer(2026~)**
-  - 📴 **Frontend Developer(2026~)**
+  - 📴 Frontend Developer(RN, 2026~)
 - 🌱 Kyung Hee University - Computer Science and Engineering(2016 ~ 2023)
 - ⚽ Goals
   - Develop "user-friendly" and "bug-free" services
